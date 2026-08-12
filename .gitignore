@@ -28,3 +28,4 @@ ucli.key
 *.fsdb_*
 *.xml
 *.sch
+*.swm
