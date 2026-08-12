@@ -25,3 +25,6 @@ ucli.key
 # Temporary files
 *.tmp
 *.bak
+*.fsdb_*
+*.xml
+*.sch
