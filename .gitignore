@@ -1,1 +1,27 @@
 AXI4_specification.pdf
+# QuestaSim
+work/
+transcript
+*.wlf
+
+# VCS
+simv
+simv.daidir/
+csrc/
+ucli.key
+*.vpd
+*.fsdb
+
+# Simulation files
+*.log
+*.vcd
+
+# Vim / editor temporary files
+*.swp
+*.swo
+*.swn
+*~
+
+# Temporary files
+*.tmp
+*.bak
