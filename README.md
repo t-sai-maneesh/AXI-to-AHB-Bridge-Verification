@@ -240,6 +240,6 @@ sim/                    Simulation Files
 
 ## Conclusion
 
-This project provided hands-on experience in **AMBA protocol verification, AXI4 and AHB-Lite transaction flow, UVM-based verification, constrained-random testing, scoreboard implementation, functional coverage, and waveform debugging**.
+This project provided hands-on experience in **AMBA protocol verification, AXI4 and AHB transaction flow, UVM-based verification, constrained-random testing, scoreboard implementation, functional coverage, and waveform debugging**.
 
 The project strengthened my understanding of **protocol conversion and reusable UVM verification environments**, providing practical experience relevant to **ASIC Design and Functional Verification**.
